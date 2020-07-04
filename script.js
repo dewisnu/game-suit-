@@ -42,3 +42,4 @@ while (tanya) {
  alert('kamu memilih ' + p + ' \nkomputer memilih ' + comp + '\nhasilnya ' + hasil );
 tanya = confirm('mengulang permainan?')
 }
+alert('permainan selesai')
